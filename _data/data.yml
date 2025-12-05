@@ -68,50 +68,52 @@ experiences:
     time: 2024 - Present
     company: Bright Health Solutions, Vancouver, BC Canada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      - Independently designed and implemented a seamless integration between MOIS EMR and OceanMD, Canada’s leading provider of EMR-integrated eReferral solutions. Assigned as an almost entirely solo project, the integration required navigating complex challenges with minimal documentation and technical guidance. The solution was researched, designed, and executed using modern technologies and standards, including HL7 FHIR R4, .NET 6 with Entity Framework Core, and PostgreSQL, with Keycloak (deployed in Docker) serving as the OIDC provider for secure authentication. Core development was conducted using PowerBuilder 2022 R3 and ASP.NET Web API, with deployment as a scalable service on Microsoft Azure. Beyond full-stack development, responsibilities encompassed project management, business analysis, testing, and DevOps, ensuring a high-performance and resilient solution. This implementation streamlined workflows, enhanced data interoperability, and improved the user experience across both platforms.
+      - Designed and implemented Microsoft Azure AD Authentication integration for MOIS EMR by developing an agnostic OIDC client, allowing users to seamlessly authenticate into MOIS with their Azure AD credentials while linking their MOIS accounts. Additionally, build a lightweight JWT CLI tool using .NET 9 to enhance PowerBuilder 2022 R3 compatibility, overcoming its limited native capability to support asymmetric signature verification required for the OAuth2 flow.
+      - Designed and implemented a database schema logging system using PostgreSQL, resulting in an 80% reduction in execution time compared to application-level logging, while also enhancing data capture through JSONB for better flexibility and performance.
   - role: Intermediate Software Developer
     time: 2015 - 2024
     company: Bright Health Solutions, Vancouver, BC Canada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Develop features, enhancements, and address bug fixes for the MOIS EMR application, utilizing a suite of software development tools such as PowerBuilder, PostgreSQL, Python, PowerShell, JavaScript, HTML/CSS, as well as RESTful API services.
+      - Architect intermediate to complex SQL scripts for managing and maintaining client clinical information databases.
+      - Apply Agile Scrum methodologies using Atlassian Tools including JIRA, BitBucket, and Confluence, enhancing project management efficiency.
+      - Translate business requirements into actionable technical specifications for internal and external clients.
+      - Assist production support in addressing issues with mission-critical software functionality.
+      - Plan and coordinate activities for custom data migrations.
+      - Established a stable testing environment by configuring a Linux Server VM to host web services within Docker containers.
+      - Introduced an automated build process in Atlassian Bamboo, saving 2 hours per build and  increasing development speed.
+      - Constructed a modern eForms engine using .NET Core, React + TypesScript, and GraphQL.
+      - Converted a legacy PowerBuilder desktop application to a modern web stack (C#, .NET Core/React + TypeScript).
+      - Created a web-based Python application using the Flask micro web framework to streamline SQL patch management, enhancing the team’s efficiency and minimizing errors through templated SQL generation.
+      - Developed a Health Level Seven (HL7) CDA generation utility to facilitate seamless message exchange between EMR implementations.
+      - Integrated the MOIS EMR system with a third-party electronic faxing service provider’s public-facing ReST API, ensuring seamless integration.
+      - Incorporated a third-party notification (SMS/Voice) service into the MOIS EMR system, enhancing communication capabilities.
+      - Developed a .NET Core web API service to facilitate a SMART on FHIR application (PHSA eForms) into the MOIS EMR, utilizing OAuth 2.0 for secure communication.
+      - Created a web-based Medical Transportation Information System for First Nations Health Authority, utilizing React + TypeScript for the frontend, complemented by a robust backend powered by .NET 6, GraphQL with HotChocolate, EntityFramework Core, and PostgreSQL. Integrated Keycloak as an Identity Provider and orchestrated DevOps processes with bash scripts. Enhanced functionality included advanced CSV reporting capabilities. Implemented seamless CI/CD pipelines leveraging Atlassian Bitbucket and Microsoft Azure.
   - role: Application Technical Analyst
     time: 2019
     company: Northern Health Authority, Prince George, BC Canada
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Supported the Home and Community Care portfolio focusing on the Procura and MOIS applications.
+      - Created and maintained user and technical documentation using Confluence.
+      - Designed reports to support decision-making using SQL Server Management Studio & Reporting Services.
+      - Managed Incidents, Problems, and Changes following ITIL principles.
+      - Maintained EHR environment quality, settings, and configuration to comply with organizational and Canadian Ministry of Health requirements.
+      - Developed tools to enhance processes using PowerShell and C# .NET.
+      - Designed and implemented a process to automate a Procura system refresh using PowerShell.
   - role: Software Engineering Analyst
     time: 2012 - 2015
     company: Accenture Inc., Cebu, Philippines
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Worked on an Application Management project for the outsourced HR ERP functionality of a British-Dutch multinational consumer goods company, handling requests and queries using PeopleSoft Enterprise HRMS 9.0 and PeopleTools 8.52 while leading 4 junior resources.
+      - Managed workload, tracked performance, and report progress against work package and team goals, resulting in 97% resolution of incidents/tickets being within Service Level Agreements (SLA).
+      - Analyzed ticket metrics and control reports, assisted team members on incidents and requests, organized and facilitated meetings, and created meetings minutes documentation.
+      - Coordinated with international team counterparts in the USA, UK, India, and the Philippines during on-call shift rotations and batch job monitoring.
+      - Created and reviewed Master Reference Data (MRD), DB Change form requests, and Data Mover Scripts (DMS) for Oracle Database 10g.
+      - Created, updated, and modified technical and functional documentation, as well as Job Aid documents, and provided Knowledge Transfer sessions to the team.
+      - Maintained Build Issue Logs, Change Control/Request Logs, and Requirements Traceability Matrix (RTM).
+      - Created Post Mortem documents and provided analysis.
 Linux Essentials (LPI ID: LPI000361093)
 Customer Service Specialist (License No. 3171614)
 CompTIA A+ (Candidate ID: COMP001021002165)
