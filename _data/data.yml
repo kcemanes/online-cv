@@ -15,19 +15,6 @@ sidebar:
   citizenship: Canada/Philippines
   # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/kirby-cemanes
-  # xing: alandoe
-  # github: jekyll
-  # telegram: # add your nickname without '@' sign
-  # gitlab:
-  # bitbucket:
-  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  # twitter: '@jekyllrb'
-  # stack-overflow: # Number/Username, e.g. 123456/alandoe
-  # codewars:
-  # goodreads: # Number-Username, e.g. 123456-alandoe
-  # mastodon: # Please include your full Mastodon link here.
-  # hackerrank: # Please provide your HackerRank username.
-  # leetcode: # Please provide your LeetCode username.
   pdf: https://kcemanes.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -40,7 +27,7 @@ sidebar:
       level: Native
       
 career-profile:
-  title: Career Profile
+  title: Professional Summary
   summary: |
     Experienced Software Developer with DevOps proficiency specializing in developing, enhancing, and managing complex software solutions. 
     Skilled in a diverse set of technologies encompassing C# .NET, Python,  React + TypeScript, Unix Shell/Windows PowerShell scripting, PowerBuilder, 
@@ -56,9 +43,9 @@ education:
   - degree: BSc in Computer Engineering
     university: University of San Jose - Recoletos
     time: 2007 - 2012
-
+    
 experiences:
-  title: Experiences
+  title: Professional Experience
   info:
   - role: Software Development Consultant
     time: 2024 - Present
