@@ -22,13 +22,13 @@ sidebar:
      - something
 
   languages:
-    title: Languages
+    title: Tech Stack
     info:
-    - idiom: English
-      level: Professional
+    - idiom: C# .NET
+      level: 10 years
 
-    - idiom: Filipino
-      level: Native
+    #- idiom: Filipino
+    #  level: Native
       
 career-profile:
   title: Professional Summary
