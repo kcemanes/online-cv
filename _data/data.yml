@@ -17,6 +17,10 @@ sidebar:
   linkedin: https://www.linkedin.com/in/kirby-cemanes
   pdf: https://kcemanes.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+  tech stack: 
+    title: something
+     - something
+
   languages:
     title: Languages
     info:
