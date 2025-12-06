@@ -21,6 +21,7 @@ sidebar:
     title: Tech Stack
     info:
     - idiom: C# (.NET Framework / .NET Core / .NET 6+)
+    - level: 
     - idiom: ASP.NET Web API
     - idiom: Entity Framework Core
     - idiom: React + TypeScript
