@@ -123,10 +123,13 @@ certifications:
     organization: Linux Professional Institute
     credentialid: LPI000361093
   - name: Customer Service Specialist
+    organization: ETA International
     credentialid: 3171614
   - name: CompTIA A+
+    organization: CompTIA
     credentialid: COMP001021002165
   - name: Certified Fiber Optic Technician
+    organization: The Fiber Optic Association
     credentialid: CSS184840
 
 #footer: >
