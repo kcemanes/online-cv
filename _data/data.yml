@@ -17,33 +17,28 @@ sidebar:
   linkedin: https://www.linkedin.com/in/kirby-cemanes
   pdf: https://kcemanes.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
+  interests:
     title: Tech Stack
     info:
-    - idiom: C# (.NET Framework / .NET Core / .NET 6+)
-    - level: 
-    - idiom: ASP.NET Web API
-    - idiom: Entity Framework Core
-    - idiom: React + TypeScript
-    - idiom: Python
-    - idiom: PowerBuilder 2022 R3
-    - idiom: SQL (PostgreSQL, MS SQL Server, Oracle 10g)
-    - idiom: HL7 FHIR R4 / SMART on FHIR
-    - idiom: OAuth 2.0 / OIDC
-    - idiom: Keycloak (IDP)
-    - idiom: Azure AD Authentication
-    - idiom: Microsoft Azure (App Services, Container Apps, ACR)
-    - idiom: Docker
-    - idiom: GraphQL (HotChocolate)
-    - idiom: Flask (Python)
-    - idiom: Bash / PowerShell scripting
-    - idiom: CI/CD (Azure Pipelines, Bamboo)
-    - idiom: Bitbucket / Jira / Confluence
-    - idiom: PeopleSoft HCM (PeopleTools 8.52)
-      #level: 10 years
-
-    #- idiom: Filipino
-    #  level: Native
+    - item: C# (.NET Framework / .NET Core / .NET 6+)
+    - item: ASP.NET Web API
+    - item: Entity Framework Core
+    - item: React + TypeScript
+    - item: Python
+    - item: PowerBuilder 2022 R3
+    - item: SQL (PostgreSQL, MS SQL Server, Oracle 10g)
+    - item: HL7 FHIR R4 / SMART on FHIR
+    - item: OAuth 2.0 / OIDC
+    - item: Keycloak (IDP)
+    - item: Azure AD Authentication
+    - item: Microsoft Azure (App Services, Container Apps, ACR)
+    - item: Docker
+    - item: GraphQL (HotChocolate)
+    - item: Flask (Python)
+    - item: Bash / PowerShell scripting
+    - item: CI/CD (Azure Pipelines, Bamboo)
+    - item: Bitbucket / Jira / Confluence
+    - item: PeopleSoft HCM (PeopleTools 8.52)
       
 career-profile:
   title: Professional Summary
