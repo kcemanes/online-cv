@@ -77,9 +77,9 @@ experiences:
     time: 2015 - 2024
     company: Bright Health Solutions, Vancouver, BC, Canada
     details: |
-      - Drove major application modernization efforts, converting a legacy PowerBuilder desktop application to a modern web stack utilizing C# .NET Core, React + TypeScript, and GraphQL.
-      - Architected and delivered a robust, full-stack Medical Transportation Information System (MTIS) for the First Nations Health Authority using React + TypeScript, .NET 6, HotChocolate GraphQL, and PostgreSQL.
-        - Integrated Keycloak for authentication and implemented seamless CI/CD pipelines using Atlassian Bitbucket and Microsoft Azure.
+      - Executed key development tasks for the application modernization project, converting a legacy PowerBuilder desktop application to a modern web stack utilizing C# .NET Core, React + TypeScript, and GraphQL.
+      - Provided critical development and implementation support for the Medical Transportation Information System (MTIS), a full-stack system built with React + TypeScript, .NET 6, and PostgreSQL.
+        - Executed key tasks for system security and deployment, including Keycloak integration for authentication and setup of CI/CD pipelines using Atlassian Bitbucket and Microsoft Azure.
       - Enhanced core EMR functionality through complex integrations:
         - Developed a .NET Core web API service to facilitate a SMART on FHIR application (PHSA eForms) using OAuth 2.0 for secure communication.
         - Integrated third-party electronic faxing and notification (SMS/Voice) services via public-facing REST APIs.
