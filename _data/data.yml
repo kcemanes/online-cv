@@ -88,6 +88,8 @@ experiences:
        - Implemented an automated build process in Atlassian Bamboo, saving 2 hours per build and significantly increasing development velocity.
        - Created a web-based Python (Flask) application to streamline SQL patch management, minimizing errors through templated SQL generation.
        - Configured a stable testing environment using a Linux Server VM to host web services within Docker containers.
+      - Applied Agile Scrum methodologies using the Atlassian suite (JIRA, BitBucket, Confluence) to manage the full SDLC, translating complex business requirements into actionable technical specifications.
+      - Designed and optimized intermediate to complex SQL scripts for managing and maintaining client clinical information databases on PostgreSQL, while providing high-level production support for mission-critical software.
   - role: Application Technical Analyst
     time: 2019
     company: Northern Health Authority, Prince George, BC, Canada
