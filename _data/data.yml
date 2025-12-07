@@ -43,10 +43,11 @@ sidebar:
 career-profile:
   title: Professional Summary
   summary: |
-    Experienced Software Developer with DevOps proficiency specializing in developing, enhancing, and managing complex software solutions. 
-    Skilled in a diverse set of technologies encompassing C# .NET, Python,  React + TypeScript, Unix Shell/Windows PowerShell scripting, PowerBuilder, 
-    PeopleSoft HCM, and SAP ABAP with Git SCM. Adept in managing various RDBMS such as MS SQL Server, Oracle DB, and PostgreSQL. 
-    Consistently improving project outcomes and operational efficiency.
+    Experienced Software Developer and DevOps specialist with 10+ years of experience delivering and managing scalable, high-performance software solutions. 
+    Proven ability to drive operational efficiency by leveraging expertise across C# .NET, Python, and React + TypeScript for full-stack development. 
+    Adept at managing the entire SDLC, from architecture to deployment, utilizing Git SCM, Unix Shell, and Windows PowerShell scripting. 
+    Possesses key experience optimizing and supporting complex enterprise environments, including PeopleSoft HCM and SAP ABAP. 
+    Skilled in optimizing relational databases (MS SQL Server, Oracle DB, PostgreSQL) to achieve measurable improvements in system performance and reliability.
     
 education:
   title: Education
@@ -76,45 +77,38 @@ experiences:
     time: 2015 - 2024
     company: Bright Health Solutions, Vancouver, BC, Canada
     details: |
-      - Develop features, enhancements, and address bug fixes for the MOIS EMR application, utilizing a suite of software development tools such as PowerBuilder, PostgreSQL, Python, PowerShell, JavaScript, HTML/CSS, as well as RESTful API services.
-      - Architect intermediate to complex SQL scripts for managing and maintaining client clinical information databases.
-      - Apply Agile Scrum methodologies using Atlassian Tools including JIRA, BitBucket, and Confluence, enhancing project management efficiency.
-      - Translate business requirements into actionable technical specifications for internal and external clients.
-      - Assist production support in addressing issues with mission-critical software functionality.
-      - Plan and coordinate activities for custom data migrations.
-      - Established a stable testing environment by configuring a Linux Server VM to host web services within Docker containers.
-      - Introduced an automated build process in Atlassian Bamboo, saving 2 hours per build and increasing development speed.
-      - Constructed a modern eForms engine using .NET Core, React + TypeScript, and GraphQL.
-      - Converted a legacy PowerBuilder desktop application to a modern web stack (C#, .NET Core/React + TypeScript).
-      - Created a web-based Python application using the Flask micro-framework to streamline SQL patch management, enhancing the team’s efficiency and minimizing errors through templated SQL generation.
-      - Developed a Health Level Seven (HL7) CDA generation utility to facilitate seamless message exchange between EMR implementations.
-      - Integrated the MOIS EMR system with a third-party electronic faxing service provider’s public-facing REST API, ensuring seamless integration.
-      - Incorporated a third-party notification (SMS/Voice) service into the MOIS EMR system, enhancing communication capabilities.
-      - Developed a .NET Core web API service to facilitate a SMART on FHIR application (PHSA eForms) into the MOIS EMR, utilizing OAuth 2.0 for secure communication.
-      - Created a web-based Medical Transportation Information System for First Nations Health Authority, utilizing React + TypeScript for the frontend, complemented by a robust backend powered by .NET 6, GraphQL with HotChocolate, Entity Framework Core, and PostgreSQL. Integrated Keycloak as an Identity Provider and orchestrated DevOps processes with bash scripts. Enhanced functionality included advanced CSV reporting capabilities. Implemented seamless CI/CD pipelines leveraging Atlassian Bitbucket and Microsoft Azure.
+      - Drove major application modernization efforts, converting a legacy PowerBuilder desktop application to a modern web stack utilizing C# .NET Core, React + TypeScript, and GraphQL.
+      - Architected and delivered a robust, full-stack Medical Transportation Information System (MTIS) for the First Nations Health Authority using React + TypeScript, .NET 6, HotChocolate GraphQL, and PostgreSQL.
+        - Integrated Keycloak for authentication and implemented seamless CI/CD pipelines using Atlassian Bitbucket and Microsoft Azure.
+      - Enhanced core EMR functionality through complex integrations:
+        - Developed a .NET Core web API service to facilitate a SMART on FHIR application (PHSA eForms) using OAuth 2.0 for secure communication.
+        - Integrated third-party electronic faxing and notification (SMS/Voice) services via public-facing REST APIs.
+        - Created a Health Level Seven (HL7) CDA generation utility to ensure seamless message exchange between EMR implementations.
+      - Accelerated Development and Deployment Cycles by introducing process automation:
+       - Implemented an automated build process in Atlassian Bamboo, saving 2 hours per build and significantly increasing development velocity.
+       - Created a web-based Python (Flask) application to streamline SQL patch management, minimizing errors through templated SQL generation.
+       - Configured a stable testing environment using a Linux Server VM to host web services within Docker containers.
   - role: Application Technical Analyst
     time: 2019
     company: Northern Health Authority, Prince George, BC, Canada
     details: |
-      - Supported the Home and Community Care portfolio focusing on the Procura and MOIS applications.
-      - Created and maintained user and technical documentation using Confluence.
-      - Designed reports to support decision-making using SQL Server Management Studio and Reporting Services.
-      - Managed Incidents, Problems, and Changes following ITIL principles.
-      - Maintained EHR environment quality, settings, and configuration to comply with organizational and Canadian Ministry of Health requirements.
-      - Developed tools to enhance processes using PowerShell and C# .NET.
-      - Designed and implemented a process to automate a Procura system refresh using PowerShell.
+      - Drove operational efficieny for the Home and Community Care portfolio (Procura and MOIS applications) by developing and deploying process enhancement tools using PowerShell and C# .NET.
+      - Designed and implemented a key automation process using PowerShell to streamline the Procura system refresh lifecycle, significantly reducing manual effort and refresh time.
+      - Managed the full lifecycle of Incidents, Problems, and Changes following ITIL principles to ensure high availability and stability of mission-critical Electronic Health Record (EHR) environments.
+      - Ensured EHR environment quality and compliance by meticulously maintaining system settings and configurations to meet stringent organizational and Canadian Ministry of Health requirements.
+      - Supported executive decision-making by designing and delivering custom reports using SQL Server Management Studio (SSMS) and Reporting Services (SSRS).
+      - Documented system architecture, technical procedures, and user guides using Confluence to facilitate Knowledge Transfer and maintain system continuity.
+      
   - role: Software Engineering Analyst
     time: 2012 - 2015
     company: Accenture Inc., Cebu, Philippines
     details: |
-      - Worked on an Application Management project for the outsourced HR ERP functionality of a British-Dutch multinational consumer goods company, handling requests and queries using PeopleSoft Enterprise HRMS 9.0 and PeopleTools 8.52 while leading 4 junior resources.
-      - Managed workload, tracked performance, and reported progress against work packages and team goals, resulting in 97% resolution of incidents/tickets being within Service Level Agreements (SLA).
-      - Analyzed ticket metrics and control reports, assisted team members on incidents and requests, organized and facilitated meetings, and created meeting minutes documentation.
-      - Coordinated with international team counterparts in the USA, UK, India, and the Philippines during on-call shift rotations and batch job monitoring.
-      - Created and reviewed Master Reference Data (MRD), DB Change form requests, and Data Mover Scripts (DMS) for Oracle Database 10g.
-      - Created, updated, and modified technical and functional documentation, as well as Job Aid documents, and provided Knowledge Transfer sessions to the team.
-      - Maintained Build Issue Logs, Change Control/Request Logs, and Requirements Traceability Matrix (RTM).
-      - Created Post-mortem documents and provided analysis.
+      - Led a 4-person team supporting the outsourced HR ERP function (PeopleSoft Enterprise HRMS 9.0/PeopleTools 8.52) for a multinational consumer goods company.
+      - Managed team workload, performance tracking, and incident resolution, achieving a 97% success rate for resolving incidents and tickets within Service Level Agreements (SLA)
+      - Drove efficiency by analyzing ticket metrics and control reports, facilitating team meetings, and creating comprehensive documentation (technical, functinal, and Job Aids).
+      - Executed critical database changes by creating and reviewing Master Reference Data (MRD), Change Requests, and Data Mover Scripts (DMV) for Oracle Database 10g.
+      - Maintained strict adherence to governance by managing Build Issue Logs, Change Control/Request Logs, and the Requirements Traceability Matrix (RTM).
+      - Provided 24/7 on-call support and coordinated effectively with international counterparts across the USA, UK, India, and the Philippines during shift rotations and batch job monitoring.
 
 certifications:
   title: Certifications
