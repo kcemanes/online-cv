@@ -79,7 +79,7 @@ experiences:
     details: |
       - Executed key development tasks for the application modernization project, converting a legacy PowerBuilder desktop application to a modern web stack utilizing C# .NET Core, React + TypeScript, and GraphQL.
       - Provided critical development and implementation support for the Kucén medical transportation information system. Kucén is a custom-built web application that coordinates First Nations medical travel across British Columbia, Canada. It provides a common web platform across diverse First Nations communities for data collection and medical travel services. It is a full-stack system built with React + TypeScript, .NET 6, and PostgreSQL.
-        - Executed key tasks for the C# GraphQL WebApi using HotChocolate as well as system security and deployment, including Keycloak integration for authentication and setup of CI/CD pipelines using Atlassian Bitbucket and Microsoft Azure.
+        - Executed key tasks for the .NET GraphQL WebApi using HotChocolate as well as system security and deployment, including Keycloak integration for authentication and setup of CI/CD pipelines using Atlassian Bitbucket and Microsoft Azure.
       - Enhanced core EMR functionality through complex integrations:
         - Developed a .NET Core web API service to facilitate a SMART on FHIR application (PHSA eForms) using OAuth 2.0 for secure communication.
         - Integrated third-party electronic faxing and notification (SMS/Voice) services via public-facing REST APIs.
