@@ -66,7 +66,7 @@ experiences:
     time: 2024 - Present
     company: Bright Health Solutions, Vancouver, BC, Canada
     details: |
-      - Spearheaded the design and full-stack implementation of a seamless integration between MOIS EMR and OceanMD (Canada's leading eReferral solution), serving as the sole technical expert and architect.
+      - Lead the design and full-stack implementation of a seamless integration between MOIS EMR and OceanMD's eReferral solution, serving as the sole technical expert and architect.
         - Engineered a highly available and resilient solution on Microsoft Azure, utilizing HL7 FHIR R4, .NET 6, and PostgreSQL for robust data interoperability and persistence.
         - Secured the solution using Keycloak (Docker) as the OIDC provider for authentication and authorization.
       - Drove security and user experience improvements by designing and implementing Microsoft Azure AD Authentication (SSO) for MOIS EMR, enabling users to authenticate directly with their Azure AD credentials via a newly developed agnostic OIDC client.
