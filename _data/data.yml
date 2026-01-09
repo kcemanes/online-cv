@@ -23,7 +23,7 @@ sidebar:
     - item: C# (.NET Framework / .NET Core / .NET 6+)
     - item: ASP.NET Web API
     - item: Entity Framework Core
-    - item: React + TypeScript
+    - item: React / TypeScript
     - item: Python
     - item: PowerBuilder 2022 R3
     - item: SQL (PostgreSQL, MS SQL Server, Oracle 10g)
@@ -39,16 +39,17 @@ sidebar:
     - item: CI/CD (Azure Pipelines, Bamboo)
     - item: Bitbucket / Jira / Confluence
     - item: PeopleSoft HCM (PeopleTools 8.52)
+    - item: SAP ABAP
       
 career-profile:
   title: Professional Summary
   summary: |
-    Experienced Software Developer and DevOps specialist with 10+ years of experience delivering and managing scalable, high-performance software solutions. 
-    Proven ability to drive operational efficiency by leveraging expertise across C# .NET, Python, and React + TypeScript for full-stack development. 
+    Experienced Full-Stack Software Developer and DevOps specialist with 10+ years of experience delivering and managing scalable, high-performance software solutions. 
+    Proven ability to drive operational efficiency by leveraging expertise across C# .NET, Python, and React/TypeScript within modern CI/CD pipelines.
     Adept at managing the entire SDLC, from architecture to deployment, utilizing Git SCM, Unix Shell, and Windows PowerShell scripting. 
     Possesses key experience optimizing and supporting complex enterprise environments, including PeopleSoft HCM and SAP ABAP. 
     Skilled in optimizing relational databases (MS SQL Server, Oracle DB, PostgreSQL) to achieve measurable improvements in system performance and reliability.
-    
+
 education:
   title: Education
   info:
