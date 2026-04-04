@@ -38,19 +38,19 @@ career-profile:
 
 skills:
   title: Technical Skills
-  info:
-  - category: Languages & Frameworks
-    items: C# (.NET Framework / .NET Core / .NET 6+), ASP.NET Web API, Entity Framework Core, Python, Flask, React / TypeScript, GraphQL (HotChocolate), PowerBuilder 2022 R3
-  - category: Databases
-    items: PostgreSQL, MS SQL Server, Oracle 10g, JSONB
-  - category: Healthcare Standards
-    items: HL7 FHIR R4, SMART on FHIR, HL7 CDA
-  - category: Cloud & DevOps
-    items: Microsoft Azure (App Services, Container Apps, ACR), Azure AD Authentication, Docker, Azure Pipelines, Atlassian Bamboo, Bitbucket
-  - category: Authentication & Security
-    items: OAuth 2.0, OIDC, Keycloak (IDP), JWT
-  - category: Tools & Platforms
-    items: Jira, Confluence, PeopleSoft HCM (PeopleTools 8.52), SAP ABAP, Bash, PowerShell
+  toolset:
+  - name: C# / .NET
+    level: 95
+  - name: React / TypeScript
+    level: 85
+  - name: PostgreSQL / MS SQL Server
+    level: 90
+  - name: HL7 FHIR R4
+    level: 85
+  - name: Microsoft Azure
+    level: 85
+  - name: Docker / CI/CD
+    level: 80
 
 education:
   title: Education
