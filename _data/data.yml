@@ -18,28 +18,14 @@ sidebar:
   pdf: https://kcemanes.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   interests:
-    title: Tech Stack
+    title: Core Skills
     info:
-    - item: C# (.NET Framework / .NET Core / .NET 6+)
-    - item: ASP.NET Web API
-    - item: Entity Framework Core
+    - item: C# / .NET (Core, 6+)
     - item: React / TypeScript
-    - item: Python
-    - item: PowerBuilder 2022 R3
-    - item: SQL (PostgreSQL, MS SQL Server, Oracle 10g)
-    - item: HL7 FHIR R4 / SMART on FHIR
-    - item: OAuth 2.0 / OIDC
-    - item: Keycloak (IDP)
-    - item: Azure AD Authentication
-    - item: Microsoft Azure (App Services, Container Apps, ACR)
-    - item: Docker
-    - item: GraphQL (HotChocolate)
-    - item: Flask (Python)
-    - item: Bash / PowerShell scripting
-    - item: CI/CD (Azure Pipelines, Bamboo)
-    - item: Bitbucket / Jira / Confluence
-    - item: PeopleSoft HCM (PeopleTools 8.52)
-    - item: SAP ABAP
+    - item: PostgreSQL / MS SQL Server
+    - item: HL7 FHIR R4
+    - item: Microsoft Azure
+    - item: Docker / CI/CD
       
 career-profile:
   title: Professional Summary
@@ -49,6 +35,22 @@ career-profile:
     Adept at managing the entire SDLC, from architecture to deployment, utilizing Git SCM, Unix Shell, and Windows PowerShell scripting. 
     Possesses key experience optimizing and supporting complex enterprise environments, including PeopleSoft HCM and SAP ABAP. 
     Skilled in optimizing relational databases (MS SQL Server, Oracle DB, PostgreSQL) to achieve measurable improvements in system performance and reliability.
+
+skills:
+  title: Technical Skills
+  info:
+  - category: Languages & Frameworks
+    items: C# (.NET Framework / .NET Core / .NET 6+), ASP.NET Web API, Entity Framework Core, Python, Flask, React / TypeScript, GraphQL (HotChocolate), PowerBuilder 2022 R3
+  - category: Databases
+    items: PostgreSQL, MS SQL Server, Oracle 10g, JSONB
+  - category: Healthcare Standards
+    items: HL7 FHIR R4, SMART on FHIR, HL7 CDA
+  - category: Cloud & DevOps
+    items: Microsoft Azure (App Services, Container Apps, ACR), Azure AD Authentication, Docker, Azure Pipelines, Atlassian Bamboo, Bitbucket
+  - category: Authentication & Security
+    items: OAuth 2.0, OIDC, Keycloak (IDP), JWT
+  - category: Tools & Platforms
+    items: Jira, Confluence, PeopleSoft HCM (PeopleTools 8.52), SAP ABAP, Bash, PowerShell
 
 education:
   title: Education
