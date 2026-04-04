@@ -8,11 +8,9 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
+  <div class="skill-tags">
     {% for skill in skills.toolset %}
-    <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
-    </div>
+    <span class="skill-tag">{{ skill.name }}</span>
     {% endfor %}
   </div>
 </section>
