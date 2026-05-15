@@ -30,12 +30,12 @@ sidebar:
 career-profile:
   title: Professional Summary
   summary: |
-    Experienced Full-Stack Software Developer and DevOps specialist with 10+ years of experience delivering and managing scalable, high-performance software solutions. 
-    Proven ability to drive operational efficiency by leveraging expertise across C# .NET, Python, and React/TypeScript within modern CI/CD pipelines.
-    Adept at managing the entire SDLC, from architecture to deployment, utilizing Git SCM, Unix Shell, and Windows PowerShell scripting. 
-    Possesses key experience optimizing and supporting complex enterprise environments, including PeopleSoft HCM and SAP ABAP. 
-    Skilled in optimizing relational databases (MS SQL Server, Oracle DB, PostgreSQL) to achieve measurable improvements in system performance and reliability.
-
+    Experienced Software Development Consultant and Systems Integration Specialist with 10+ years of experience delivering enterprise application modernization, systems integration, and operational support across complex enterprise environments.
+    Strong technical background in C#, .NET, Python, and React/TypeScript, with hands-on experience building and supporting solutions within modern CI/CD pipelines and cloud-based architectures.
+    Specializes in bridging technical and business domains to deliver integrated solutions involving identity management, enterprise APIs, databases, and legacy system modernization initiatives.
+    Experienced in leading and coordinating cross-functional efforts across software development, systems analysis, implementation support, and DevOps operations throughout the full SDLC, including integration design, deployment, and production support.
+    Combines strong technical depth with practical systems thinking to deliver scalable, maintainable, and operationally reliable enterprise solutions.
+  
 skills:
   title: Technical Skills
   toolset:
