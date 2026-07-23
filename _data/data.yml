@@ -39,29 +39,25 @@ career-profile:
 skills:
   title: Technical Skills
   toolset:
-  - name: C# (.NET Framework / .NET Core / .NET 6+)
+  - name: C# ( .NET Core / .NET 6+)
   - name: ASP.NET Web API
+  - name: Microsoft Azure (App Services, Container Apps, ACR, Auth, Pipelines)
   - name: Entity Framework Core
-  - name: Python / Flask
   - name: React / TypeScript
+  - name: PostgreSQL
+  - name: HL7 FHIR / CDA
+  - name: SMART on FHIR
+  - name: OAuth 2.0 / OIDC
   - name: GraphQL (HotChocolate)
   - name: PowerBuilder 2022 R3
-  - name: PostgreSQL
   - name: MS SQL Server
   - name: Oracle 10g
-  - name: HL7 FHIR R4
-  - name: SMART on FHIR
-  - name: HL7 CDA
-  - name: Microsoft Azure (App Services, Container Apps, ACR)
-  - name: Azure AD Authentication
   - name: Docker
-  - name: Azure Pipelines
   - name: Atlassian Bamboo
   - name: Bitbucket
-  - name: OAuth 2.0 / OIDC
   - name: Keycloak (IDP)
-  - name: JWT
   - name: Jira / Confluence
+  - name: Python / Flask
   - name: PeopleSoft HCM (PeopleTools 8.52)
   - name: SAP ABAP
   - name: Bash / PowerShell
