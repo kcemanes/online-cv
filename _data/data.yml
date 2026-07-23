@@ -26,6 +26,16 @@ sidebar:
     - item: HL7 FHIR R4
     - item: Microsoft Azure
     - item: Docker / CI/CD
+
+interests:
+    title: Services
+    info:
+    - item: Custom Web Applications
+    - item: Systems Integration
+    - item: Legacy Modernization
+    - item: API Development    
+    - item: Technical Consulting
+    - item: Database Design
       
 career-profile:
   title: Professional Summary
