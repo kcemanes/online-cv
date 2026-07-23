@@ -9,7 +9,7 @@ sidebar:
   avatar: profile-image2.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: senamec@email.com
+  email: kfcemanes@gmail.com
   # phone: 012 345 6789
   # timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Canada/Philippines
@@ -26,8 +26,6 @@ sidebar:
     - item: HL7 FHIR R4
     - item: Microsoft Azure
     - item: Docker / CI/CD
-
-interests:
     title: Services
     info:
     - item: Custom Web Applications
