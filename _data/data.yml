@@ -30,8 +30,9 @@ sidebar:
 career-profile:
   title: Professional Summary
   summary: |
-    Experienced Software Development Consultant with 10+ years delivering enterprise software, systems integration, application modernization, cloud solutions, and operational support across complex business environments. 
-    Experienced throughout the full software lifecycle - from requirements analysis and architecture to development, deployment, and long-term support.
+    Software Development Consultant with 10+ years of experience delivering enterprise applications, systems integration, and software modernization.
+    Experienced across the full SDLC, from business analysis and architecture to development, cloud deployment, and production support.
+    Core expertise includes .NET, React, Azure, PostgreSQL, APIs, Authentication, and DevOps.
 
   #summary: |
   #  Experienced Software Development Consultant and Systems Integration Specialist with 10+ years of experience delivering enterprise application modernization, systems integration, and operational support across complex enterprise environments.
