@@ -88,16 +88,16 @@ education:
 experiences:
   title: Professional Experience
   info:
-  - role: Senior Software Consultant
+  - role: Senior Software Consultant (Independent Contractor)
     time: 2026 - Present
-    company: Bright Health Solutions, Vancouver, BC, Canada
+    company: Bright Health Solutions, Canada (Remote)
     details: |
-      - Architected and implemented an AI-assisted clinical documentation workflow by integrating an external AI scribe platform with a legacy PowerBuilder-based EMR system.
+      - Implemented an AI-assisted clinical documentation workflow by integrating an external AI scribe platform with a legacy PowerBuilder-based EMR system.
       - Designed the integration pipeline for transmitting clinical encounter data, receiving AI-generated structured summaries, and presenting editable formatted output within the EMR interface.
       - Extended legacy PowerBuilder components with modern web-based rendering (HTML/CSS) to support AI-generated content and physician editing workflows.
-  - role: Software Consultant
+  - role: Software Consultant (Independent Contractor)
     time: 2024 - 2026
-    company: Bright Health Solutions, Vancouver, BC, Canada
+    company: Bright Health Solutions, Canada (Remote)
     details: |
       - Lead the design, full-stack implementation, and successful release of a seamless eReferral integration between MOIS EMR and OceanMD, acting as the sole technical expert and architect.
         - Engineered a highly available and resilient solution on Microsoft Azure, utilizing HL7 FHIR R4, .NET 6, and PostgreSQL for robust data interoperability and persistence.
@@ -108,7 +108,7 @@ experiences:
       - Optimized application performance by engineering a high-performance database schema logging system using PostgreSQL with JSONB, resulting in an 80% reduction in execution time compared to the previous logging method.
   - role: Intermediate Software Developer
     time: 2015 - 2024
-    company: Bright Health Solutions, Vancouver, BC, Canada
+    company: Bright Health Solutions, Vancouver, BC Canada
     details: |
       - Executed key development tasks for the application modernization project, converting a legacy PowerBuilder desktop application to a modern web stack utilizing C# .NET Core, React + TypeScript, and GraphQL.
       - Provided critical development and implementation support for the Kucén medical transportation information system. Kucén is a custom-built web application that coordinates First Nations medical travel across British Columbia, Canada. It provides a common web platform across diverse First Nations communities for data collection and medical travel services. It is a full-stack system built with React + TypeScript, .NET 6, and PostgreSQL.
@@ -125,7 +125,7 @@ experiences:
       - Designed and optimized intermediate to complex SQL scripts for managing and maintaining client clinical information databases on PostgreSQL, while providing high-level production support for mission-critical software.
   - role: Application Technical Analyst
     time: 2019
-    company: Northern Health Authority, Prince George, BC, Canada
+    company: Northern Health Authority, Prince George, BC Canada
     details: |
       - Drove operational efficieny for the Home and Community Care portfolio (Procura and MOIS applications) by developing and deploying process enhancement tools using PowerShell and C# .NET.
       - Designed and implemented a key automation process using PowerShell to streamline the Procura system refresh lifecycle, significantly reducing manual effort and refresh time.
@@ -166,7 +166,7 @@ projects:
   assignments:
     - title: Marbel Contracting & General Services
       link: "https://mcgsphilcan.ca"
-      tagline: "Designed, developed, deployed, and optimized the corporate website for a Canadian workforce solutions company, including responsive design, SEO improvements, Cloudflare configuration, and ongoing maintenance."
+      tagline: "<br>Designed, developed, deployed, and optimized the corporate website for a Canadian workforce solutions company, including responsive design, SEO improvements, Cloudflare configuration, and ongoing maintenance."
 
 #footer: >
   #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
