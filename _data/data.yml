@@ -88,14 +88,14 @@ education:
 experiences:
   title: Professional Experience
   info:
-  - role: Senior Software Consultant (Independent Contractor)
+  - role: Senior Software Consultant
     time: 2026 - Present
     company: Bright Health Solutions, Canada (Remote)
     details: |
       - Implemented an AI-assisted clinical documentation workflow by integrating an external AI scribe platform with a legacy PowerBuilder-based EMR system.
       - Designed the integration pipeline for transmitting clinical encounter data, receiving AI-generated structured summaries, and presenting editable formatted output within the EMR interface.
       - Extended legacy PowerBuilder components with modern web-based rendering (HTML/CSS) to support AI-generated content and physician editing workflows.
-  - role: Software Consultant (Independent Contractor)
+  - role: Software Consultant
     time: 2024 - 2026
     company: Bright Health Solutions, Canada (Remote)
     details: |
