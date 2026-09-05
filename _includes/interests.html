@@ -1,13 +1,13 @@
-{% assign interests = site.data.data.sidebar.interests %}
-{% if interests %}
+{% assign interest_blocks = site.data.data.sidebar.interests %}
+{% for block in interest_blocks %}
 <div class="interests-container container-block">
 
   <h2 class="container-block-title">
-    {{ interests.title }}
+    {{ block.title }}
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {% for interest in interests.info %}
+    {% for interest in block.info %}
 
       {% if interest.link %}
       <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
@@ -19,4 +19,4 @@
   </ul>
 
 </div><!--//interests-->
-{% endif %}
+{% endfor %}

@@ -15,26 +15,26 @@ sidebar:
   citizenship: Canada/Philippines
   # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: kirby-cemanes
-  pdf: https://kcemanes.github.io/online-cv/print # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://resume.kcemanes.com/print # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   interests:
-    title: Core Skills
-    info:
-    - item: C# / .NET (Core, 6+)
-    - item: React / TypeScript
-    - item: PostgreSQL / MS SQL Server
-    - item: HL7 FHIR R4
-    - item: Microsoft Azure
-    - item: Docker / CI/CD
-    title: Services
-    info:
-    - item: Custom Web Applications
-    - item: Systems Integration
-    - item: Legacy Modernization
-    - item: API Development    
-    - item: Technical Consulting
-    - item: Database Design
-      
+    - title: Core Skills
+      info:
+        - item: C# / .NET (Core, 6+)
+        - item: React / TypeScript
+        - item: PostgreSQL / MS SQL Server
+        - item: HL7 FHIR R4
+        - item: Microsoft Azure
+        - item: Docker / CI/CD
+    - title: Services
+      info:
+        - item: Custom Web Applications
+        - item: Systems Integration
+        - item: Legacy Modernization
+        - item: API Development
+        - item: Technical Consulting
+        - item: Database Design
+
 career-profile:
   title: Professional Summary
   summary: |
