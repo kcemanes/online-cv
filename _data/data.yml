@@ -127,7 +127,7 @@ experiences:
     time: 2019
     company: Northern Health Authority, Prince George, BC Canada
     details: |
-      - Drove operational efficieny for the Home and Community Care portfolio (Procura and MOIS applications) by developing and deploying process enhancement tools using PowerShell and C# .NET.
+      - Drove operational efficiency for the Home and Community Care portfolio (Procura and MOIS applications) by developing and deploying process enhancement tools using PowerShell and C# .NET.
       - Designed and implemented a key automation process using PowerShell to streamline the Procura system refresh lifecycle, significantly reducing manual effort and refresh time.
       - Managed the full lifecycle of Incidents, Problems, and Changes following ITIL principles to ensure high availability and stability of mission-critical Electronic Health Record (EHR) environments.
       - Ensured EHR environment quality and compliance by meticulously maintaining system settings and configurations to meet stringent organizational and Canadian Ministry of Health requirements.
@@ -140,7 +140,7 @@ experiences:
     details: |
       - Led a 4-person team supporting the outsourced HR ERP function (PeopleSoft Enterprise HRMS 9.0/PeopleTools 8.52) for a multinational consumer goods company.
       - Managed team workload, performance tracking, and incident resolution, achieving a 97% success rate for resolving incidents and tickets within Service Level Agreements (SLA)
-      - Drove efficiency by analyzing ticket metrics and control reports, facilitating team meetings, and creating comprehensive documentation (technical, functinal, and Job Aids).
+      - Drove efficiency by analyzing ticket metrics and control reports, facilitating team meetings, and creating comprehensive documentation (technical, functional, and Job Aids).
       - Executed critical database changes by creating and reviewing Master Reference Data (MRD), Change Requests, and Data Mover Scripts (DMV) for Oracle Database 10g.
       - Maintained strict adherence to governance by managing Build Issue Logs, Change Control/Request Logs, and the Requirements Traceability Matrix (RTM).
       - Provided 24/7 on-call support and coordinated effectively with international counterparts across the USA, UK, India, and the Philippines during shift rotations and batch job monitoring.
